@@ -83,7 +83,7 @@ while True:
         print("Cargando información de book tags...")
         book_tags = loadBooksTags()
         print("Total de book tags cargadps: " +str(lt.size(book_tags)))
-    # TODO: Modificaciones para el laboratorio 1.
+    
 
     else:
         sys.exit(0)
